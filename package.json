@@ -2,6 +2,11 @@
   "name": "storyblok-next",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
